@@ -10,8 +10,8 @@ import ShareNative from '@/components/share'
 Vue.use(ShareNative)
 
 调用分享
-<pre>
-	<div class="share" @click="$share"
+#
+#<div class="share" @click="$share"
          data-title="分享弹窗标题"
          data-subtitle="分享弹窗副标题"
          data-share-title= "zore测试分享"
@@ -23,5 +23,4 @@ Vue.use(ShareNative)
          data-popup-title= "下载弹窗标题"
          data-app-url= "app下载地址">
       显示分享
-</div>
-</pre>
+#</div>
