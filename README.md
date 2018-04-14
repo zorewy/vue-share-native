@@ -45,3 +45,6 @@ npm install vue-share-native -S
       显示分享
 </div>
 ```
+##Demo
+
+* [Demo](https://zore.wang/VueUtils/VueShareNative/) 
