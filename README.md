@@ -1,4 +1,5 @@
-# vue-share-native
+#vue-share-native版本说明:
+
 ##vue分享插件 v1.0.0 主要实现业务功能
 
 ##安装
@@ -9,11 +10,11 @@ npm install vue-share-native -S
 
 ##引入分享
 ```html
- import ShareNative from '@/components/share'
+ import VueShareNative from '@/components/share'
 ```
 ##全局注入
 ```html
- Vue.use(ShareNative)
+ Vue.use(VueShareNative)
 ```
 ##调用分享
 ```html
